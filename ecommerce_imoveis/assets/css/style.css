@@ -1,0 +1,47 @@
+body{
+
+background-color: bisque;
+color: green;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+img{
+
+width: 200px;
+
+}
+
+#mesa{
+
+height: 245px;
+
+}
+
+#estante{
+
+height: 245px;    
+
+}
+
+.container img{
+
+justify-content: center;
+object-fit: cover;
+border-radius: 50px;
+margin: 10px;
+box-shadow: 0px 4px 8px black;
+background-color: white;
+
+}
+
+.container2{
+
+display: flex;
+justify-content: center;
+gap: 190px;
+margin-top: 15px;
+
+}
