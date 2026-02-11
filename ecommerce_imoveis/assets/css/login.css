@@ -1,0 +1,21 @@
+body{
+
+text-align: center;
+border: solid black;
+width: 300px;
+margin: auto;
+border-radius: 10px;
+
+}
+
+.login{
+
+border-radius: 10px;
+
+}
+
+button{
+
+border-radius: 10px;
+
+}
