@@ -1,0 +1,36 @@
+body{
+
+margin: auto;
+display: flex;
+text-align: center;
+justify-content: center;
+background-image: url("css_image.jpg");
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div{
+
+background-color: gray;
+border-radius: 50px;
+width: 310px;
+box-shadow: 0px 8px 20px black;
+margin-top: 100px;
+
+}
+
+input{
+
+border-radius: 20px;
+height: 30px;
+
+}
+
+button{
+
+border-radius: 10px;
+height: 40px;
+width: 40px;
+
+}
